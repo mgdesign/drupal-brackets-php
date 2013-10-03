@@ -4,7 +4,7 @@
     "description": "PHP highlighting for common drupal file extensions",
     "homepage": "https://github.com/TheresNoBox/Brackets-Ruby",
     "version": "1.0.0",
-    "author": "Marcello Gorla <marcello.gorla@gmail.com> (http://www.marcellogorla.it)",
+    "author": "Marcello Gorla <marcello.gorla@gmail.com> (https://github.com/mgdesign/drupal-brackets-php)",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
